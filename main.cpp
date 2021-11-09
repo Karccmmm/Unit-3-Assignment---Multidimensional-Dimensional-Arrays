@@ -1,4 +1,4 @@
-//Student Name: Kareem Mahmoud
+//Name: Kareem Mahmoud
 
 //Teacher: Dr.Tyson McMillan
 
