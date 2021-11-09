@@ -65,7 +65,7 @@ for (int i=0;i<CITY;i++)
 }
 
 //print the temperature array
-cout<<"=======Expanded program output======="<<endl;
+cout<<"------Expanded program output-----"<<endl;
 for (int i=0;i<CITY;i++)
 {
     for (int j=0;j<WEEK;j++)
@@ -81,8 +81,6 @@ for (int i=0;i<CITY;i++)
     }
 }
 
-
-/*Program Expansion Ends */
 
 
     return 0;
