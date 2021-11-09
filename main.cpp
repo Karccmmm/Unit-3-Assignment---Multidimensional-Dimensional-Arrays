@@ -15,7 +15,7 @@ int main()
 
       const int CITY = 2;
 
-      const int WEEK = 7; 
+      const int WEEK = 7;
 
 
     int temperature[CITY][WEEK]; 
