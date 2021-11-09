@@ -31,7 +31,7 @@ int main()
 //array for city 1 and city 2 
 //as required they have been named 
 int NewYorkCity [WEEK];
-int GothamCity [WEEK];
+int Miami [WEEK];
 //First run the loop to store the data for the two cities
 //new york city
 cout<<"=======Expanded program input values======="<<endl;
@@ -40,11 +40,11 @@ for(int j = 0; j < WEEK; ++j)
         cout << "New York City Day "<< j + 1 << " Temperature: ";
             cin >> NewYorkCity[j];
     }
-//g city
+//Miami city
 for(int j = 0; j < WEEK; ++j)
     {
         cout << "Miami Day "<< j + 1 << " Temperature: ";
-            cin >> GothamCity[j];
+            cin >> Miami[j];
     }
 
 //Update the temperature array with these two cities
@@ -58,7 +58,7 @@ for (int i=0;i<CITY;i++)
         }
         else if (i==1)
         {
-           temperature[i][j] = GothamCity[j] ;
+           temperature[i][j] = Miami [j] ;
         }
     }
 }
