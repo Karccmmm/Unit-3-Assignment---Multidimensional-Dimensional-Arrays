@@ -18,7 +18,7 @@ int main()
       const int WEEK = 7; 
 
 
-    int temperature[CITY][WEEK];
+    int temperature[CITY][WEEK]; 
 
 
     cout << "Enter all temperature for a week of first city and then second city. \n";
