@@ -50,6 +50,7 @@ for(int j = 0; j < WEEK; ++j)
 //Update the temperature array with these two cities
 for (int i=0;i<CITY;i++)
 {
+
     for (int j=0;j<WEEK;j++)
     {
         if (i==0)
